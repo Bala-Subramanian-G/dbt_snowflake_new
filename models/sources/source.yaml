@@ -1,0 +1,23 @@
+
+version: 2
+
+sources:
+  - name: landing_table
+    database: dev_db
+    schema: landing
+    tables:
+      - name: COUNTIES
+      - name: CUSTOMER_ADDRESS
+      - name: PARTY
+      - name: STOREDETAILS
+      - name: COMMUNICATIONCHANNEL
+      - name: CUSTOMERS
+      - name: PREFERENCES
+      - name: SALES
+      - name: PRODUCTS
+      - name: COUNTRIES
+      - name: EMPLOYEE
+      - name: SALESDETAILS
+      - name: CITIES
+      - name: STATES
+      - name: LOCATIONS
